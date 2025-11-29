@@ -4,7 +4,7 @@ Projeto acadêmico de banco de dados com implementação em SQL baseado no mini-
 
 ## 🎯 Objetivo
 
-Aplicar comandos SQL (DML) em um banco de dados relacional real, utilizando CRUD completo e respeitando o modelo lógico desenvolvido.
+Aplicar comandos SQL (DML) em um banco de dados relacional real (PGAdmin), utilizando CRUD completo e respeitando o modelo lógico desenvolvido.
 
 ## 🧠 Metodologia
 
@@ -13,7 +13,7 @@ Aplicar comandos SQL (DML) em um banco de dados relacional real, utilizando CRUD
 - Criar: desenvolvimento de scripts completos.
 
 ### Taxonomia de Fink
-- Aplicação: uso de MySQL Workbench ou PGAdmin.
+- Aplicação: uso de PGAdmin.
 - Integração: uso do modelo lógico e normalização.
 - Aprender a aprender: resolução de erros e ajustes.
 
